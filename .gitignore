@@ -4,4 +4,6 @@ test.sh
 nvim
 
 spell/
-lazy-lock.json
+
+# Don't ignore lazy-lock in my fork. See the docs: https://lazy.folke.io/usage/lockfile
+# lazy-lock.json
